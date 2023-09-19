@@ -14,5 +14,5 @@ void six_sept_exo(){
     point B = {5,6};
 
     const double DIST = sqrt(pow((A.x - B.x),2) + pow((A.y - B.y),2));
-    printf("%.3f", DIST);
+    printf("%.3f\n", DIST);
 }

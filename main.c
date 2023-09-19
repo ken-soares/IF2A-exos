@@ -23,5 +23,8 @@ int main() {
     //exo 6.7
     six_sept_exo();
 
+    //exo 6.8
+    six_huit_exo();
+
     return 0;
 }
