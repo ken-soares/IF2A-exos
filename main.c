@@ -26,5 +26,8 @@ int main() {
     //exo 6.8
     six_huit_exo();
 
+    //exo CM 2
+    cm_deux_exo();
+
     return 0;
 }

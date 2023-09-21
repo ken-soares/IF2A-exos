@@ -7,6 +7,8 @@
 
 #include <stdio.h>
 #include <math.h>
+#include <time.h>
+#include <stdlib.h>
 
 void cinq_deux_exo();
 void six_trois_exo();
@@ -15,5 +17,6 @@ void six_cinq_exo();
 void six_six_exo();
 void six_sept_exo();
 void six_huit_exo();
+void cm_deux_exo();
 
 #endif //TEST_PROJECT_DECLA_EXOS_H

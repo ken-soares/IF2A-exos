@@ -14,5 +14,5 @@ void six_huit_exo(){
         res = (r1*r2*r3)/(r1*r2)+(r1*r3)+(r3*r2);
     }
 
-    printf("%.4f", res);
+    printf("%.4f\n", res);
 }
