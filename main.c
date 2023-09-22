@@ -27,7 +27,17 @@ int main() {
 //   six_huit_exo();
 //
 //   exo CM 2
-    cm_deux_exo();
+//   cm_deux_exo();
+//
+//   exo 7.1
+//   sept_un_exo();
+//
+//   exo 7.2
+//   sept_deux_exo();
+//
+//   exo 7.3
+    sept_trois_exo();
+
 
     return 0;
 }

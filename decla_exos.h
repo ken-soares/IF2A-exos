@@ -17,6 +17,11 @@ void six_cinq_exo();
 void six_six_exo();
 void six_sept_exo();
 void six_huit_exo();
+
+void sept_un_exo();
+void sept_deux_exo();
+void sept_trois_exo();
+
 void cm_deux_exo();
 
 #endif //TEST_PROJECT_DECLA_EXOS_H
