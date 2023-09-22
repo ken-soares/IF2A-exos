@@ -36,8 +36,10 @@ int main() {
 //   sept_deux_exo();
 //
 //   exo 7.3
-    sept_trois_exo();
-
+//  sept_trois_exo();
+//
+//   exo 7.4
+    sept_quatre_exo();
 
     return 0;
 }

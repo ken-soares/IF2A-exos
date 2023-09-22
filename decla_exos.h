@@ -9,6 +9,7 @@
 #include <math.h>
 #include <time.h>
 #include <stdlib.h>
+#include <limits.h>
 
 void cinq_deux_exo();
 void six_trois_exo();
@@ -21,6 +22,7 @@ void six_huit_exo();
 void sept_un_exo();
 void sept_deux_exo();
 void sept_trois_exo();
+void sept_quatre_exo();
 
 void cm_deux_exo();
 

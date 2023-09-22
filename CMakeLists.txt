@@ -16,4 +16,5 @@ add_executable(test_project main.c
         sept_un.c
         sept_deux.c
         sept_trois.c
+        sept_quatre.c
 )
