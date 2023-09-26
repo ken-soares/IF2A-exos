@@ -9,6 +9,6 @@ void huit_deux_exo(){
         printf("\nentrer un v ");
         scanf("%d", &v);
     }
-    while(v >= 5 && v <= 15 && v != 20);
+    while((v >= 5 && v <= 15) || v != 20);
     fprintf(stderr,"[ERREUR]: sorti de la boucle, v = %d\n", v);
 }
