@@ -1,15 +1,15 @@
 # Exercices à la main
 
 
-## 6.1
+## exo 6.1
 x:5.000000,y:10.250000,z:-5.250000
 
-## 6.2
+## exo 6.2
 a appartient à [0; 200]  
 b appartient à [115; 250]  
 c appartient a [6.25; 115]
 
-## 6.4
+## exo 6.4
 
 Pseudo code
 ```
@@ -57,4 +57,17 @@ v_moyenne <- k/(m/60)+h
 
 afficher conso, "L.100km^-1"
 afficher v_moyenne "km/h"
+```
+
+## exo 8.1
+
+```
+entier v
+tant que
+    entrée v
+    si -10 <= v <= 10 et v != 0
+        continuer
+    sinon
+        quitter la boucle
+fin tant que
 ```

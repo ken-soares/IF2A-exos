@@ -28,7 +28,7 @@ void sept_quatre_exo(){
             printf("tres bien\n");
             break;
         default:
-            printf("cas default juste pour éviter que CLion me crie dessus");
+            printf("cas default juste pour éviter que CLion me crie dessus\n");
     }
 }
 

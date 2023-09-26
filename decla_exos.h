@@ -24,6 +24,8 @@ void sept_deux_exo();
 void sept_trois_exo();
 void sept_quatre_exo();
 
+void huit_un_exo();
+
 void cm_deux_exo();
 
 #endif //TEST_PROJECT_DECLA_EXOS_H
