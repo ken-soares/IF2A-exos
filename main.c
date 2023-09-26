@@ -48,7 +48,13 @@ int main() {
 //  huit_deux_exo();
 //
 //  exo 8.3
-    huit_trois_exo();
+//  huit_trois_exo();
+//
+//  exo 8.4
+//  huit_quatre_exo();
+//
+//  exo 8.5
+    huit_cinq_exo();
 
     return 0;
 }

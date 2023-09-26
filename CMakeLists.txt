@@ -20,4 +20,6 @@ add_executable(test_project main.c
         huit_un.c
         huit_deux.c
         huit_trois.c
+        huit_quatre.c
+        huit_cinq.c
 )
