@@ -71,3 +71,9 @@ tant que
         quitter la boucle
 fin tant que
 ```
+
+## exo 8.2
+trivial car vraiment similaire au 8.2
+
+## exo 8.3
+question 1 : <img src="https://latex.codecogs.com/svg.image?\bg{white}\sum_{k=1}^{n}k=\frac{n(n&plus;1)}{2}" title="\sum_{k=1}^{n}k=\frac{n(n+1)}{2}" />

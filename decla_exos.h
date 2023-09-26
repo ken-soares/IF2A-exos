@@ -26,6 +26,7 @@ void sept_quatre_exo();
 
 void huit_un_exo();
 void huit_deux_exo();
+void huit_trois_exo();
 
 void cm_deux_exo();
 
