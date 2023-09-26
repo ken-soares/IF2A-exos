@@ -3,12 +3,12 @@
 //
 
 #include "decla_exos.h"
-
-void huit_un_exo(){
+void huit_deux_exo(){
     int v;
     do {
         printf("\nentrer un v ");
         scanf("%d", &v);
     }
-    while(v >= -10 && v <= 10 && v != 0);
+    while(v >= 5 && v <= 15 && v != 20);
+    fprintf(stderr,"[ERREUR]: sorti de la boucle, v = %d\n", v);
 }

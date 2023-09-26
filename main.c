@@ -42,7 +42,10 @@ int main() {
 //  sept_quatre_exo();
 //
 //  exo 8.1
-    huit_un_exo();
+//  huit_un_exo();
+//
+//  exo 8.2
+    huit_deux_exo();
 
     return 0;
 }
