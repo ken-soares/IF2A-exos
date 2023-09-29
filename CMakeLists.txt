@@ -22,4 +22,5 @@ add_executable(test_project main.c
         huit_trois.c
         huit_quatre.c
         huit_cinq.c
+        dix_deux.c
 )

@@ -54,7 +54,14 @@ int main() {
 //  huit_quatre_exo();
 //
 //  exo 8.5
-    huit_cinq_exo();
-
+//  huit_cinq_exo();
+//
+//  exo 10.2
+  dix_deux_exo(3,1,'+');
+//
+//  exo 10.3
+  conversion(80);
+//  exo 10.4
+    decomp_base();
     return 0;
 }

@@ -30,6 +30,10 @@ void huit_trois_exo();
 void huit_quatre_exo();
 void huit_cinq_exo();
 
+int dix_deux_exo(int a, int b, char op);
+float conversion(int far);
+void decomp_base();
+
 void cm_deux_exo();
 
 #endif //TEST_PROJECT_DECLA_EXOS_H

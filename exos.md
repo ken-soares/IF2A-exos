@@ -77,3 +77,12 @@ trivial car vraiment similaire au 8.2
 
 ## exo 8.3
 question 1 : <img src="https://latex.codecogs.com/svg.image?\bg{white}\sum_{k=1}^{n}k=\frac{n(n&plus;1)}{2}" title="\sum_{k=1}^{n}k=\frac{n(n+1)}{2}" />
+
+## exo 10.1
+
+2, 5, 17
+2, 5, 12
+
+q = 110
+
+116, 5, 110
