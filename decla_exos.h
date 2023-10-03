@@ -31,6 +31,8 @@ void huit_quatre_exo();
 void huit_cinq_exo();
 
 int dix_deux_exo(int a, int b, char op);
+void dix_six();
+
 float conversion(int far);
 void decomp_base();
 

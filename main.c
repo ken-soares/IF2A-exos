@@ -57,11 +57,15 @@ int main() {
 //  huit_cinq_exo();
 //
 //  exo 10.2
-  dix_deux_exo(3,1,'+');
+//  dix_deux_exo(3,1,'+');
 //
 //  exo 10.3
-  conversion(80);
+//  conversion(80);
+//
 //  exo 10.4
-    decomp_base();
+//  decomp_base();
+//
+//  exo 10.6
+    dix_six();
     return 0;
 }
