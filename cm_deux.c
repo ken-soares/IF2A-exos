@@ -4,8 +4,10 @@
 
 #include "decla_exos.h"
 
+// prototypes de fonctions
 int* tableau();
 int recherche(int* N, int size_N, int valeur_r);
+void min_max_tbl(int *N, int size_N);
 
 void partie_un(){
     srand(time(NULL));
@@ -59,7 +61,8 @@ void cm_deux_exo() {
     printf("%p\n", tableau());
 
     int N[5] = {1,2,3,4,1};
-    printf("%d\n",recherche(N, 5, 1))
+    printf("%d\n",recherche(N, 5, 1));
+    min_max_tbl(N, 5);
 }
 
 int* tableau(){
@@ -78,4 +81,17 @@ int recherche(int* N, int size_N, int valeur_r){
         }
     }
     return count;
+}
+
+void min_max_tbl(int *N, int size_N){
+    int min = 0, max = 0;
+    for(int i = 0; i < size_N; i++) {
+        if(N[i] >= max){
+            max = N[i];
+        }
+        if(N[i] <= min){
+            min = N[i];
+        }
+    }
+    printf("%d %d\n", min, max);
 }
