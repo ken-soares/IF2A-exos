@@ -55,7 +55,10 @@ void cm_deux_exo() {
 
     // partie 3
     //partie_trois();
-    printf("%p", tableau());
+    printf("%p\n", tableau());
+
+    int N[5] = {1,2,3,4,1};
+    printf("%d\n",recherche(N, 5, 1))
 }
 
 int* tableau(){
@@ -64,4 +67,14 @@ int* tableau(){
         N[i] = 0;
     }
     return N;
+}
+
+int recherche(int* N, int size_N, int valeur_r){
+    int count = 0;
+    for(int i = 0; i < size_N, i++){
+        if(N[i] == valeur_r){
+            count++;
+        }
+    }
+    return count;
 }
