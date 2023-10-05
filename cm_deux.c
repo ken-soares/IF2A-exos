@@ -4,6 +4,8 @@
 
 #include "decla_exos.h"
 
+int* tableau();
+
 void partie_un(){
     srand(time(NULL));
     int n;
@@ -47,10 +49,19 @@ void partie_trois(){
 void cm_deux_exo() {
 
     // partie 1
-    partie_un();
+    //partie_un();
     // partie 2
-    partie_deux();
+    //partie_deux();
 
     // partie 3
-    partie_trois();
+    //partie_trois();
+    printf("%p", tableau());
+}
+
+int* tableau(){
+    int N[100];
+    for(int i = 0; i < 100; i++){
+        N[i] = 0;
+    }
+    return N;
 }
