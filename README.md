@@ -5,6 +5,8 @@ exercices d'IF2A
 
 ## informations utiles
 
+__/!\ Pour les exos après le chapitre 10, un fichier `.c` -> 1 chapitre__
+
 + chaque exercice a un fichier `.c` qui lui correspond (exo 6.7 -> `six_sept.c`)
 + le fichier decla_exos.h contient tous les includes nécéssaires pour les exos ainsi que les déclarations 
 de fonctions de chaque exo
