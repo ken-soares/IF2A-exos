@@ -5,6 +5,7 @@
 #include "decla_exos.h"
 
 int* tableau();
+int recherche(int* N, int size_N, int valeur_r);
 
 void partie_un(){
     srand(time(NULL));
